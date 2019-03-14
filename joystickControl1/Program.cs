@@ -10,6 +10,7 @@ namespace joystickControl1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("sanjaa");
         }
     }
 }
